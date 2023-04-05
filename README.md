@@ -1,6 +1,14 @@
 ### Hi there 👋
+Check out my portfolio projects below! 👇😎
 
-
+#### Portfolio Projects👨‍💻:
+- [Pokedle.gg](https://pokedle.gg/)
+- [OpenLog MVP](https://github.com/gabr0236/OpenLog)
+- [Roborally](https://github.com/gabr0236/Roborally)
+- Stock Tracker (MERN application for creating and tracking custom stock portfolios)
+- [SetGame](https://github.com/gabr0236/SetGame)
+- [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune)
+- [Snake](https://github.com/gabr0236/Snake)
 
 <!--
 **gabr0236/gabr0236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
