@@ -1,28 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 Check out my portfolio projects below! 👇😎
 
-#### Portfolio Projects👨‍💻:
-- [Pokedle.gg](https://pokedle.gg/) (Visual Quiz Game)
-- [OpenLog](https://github.com/gabr0236/OpenLog) (Healthcare Startup MVP Android App, Group Project, Contributed ~85% of the commits)
-- [Roborally](https://github.com/gabr0236/Roborally) (Java Game, Group Project, Contributed ~75% of the commits)
-- Stock Tracker (MERN application for creating and tracking custom stock portfolios)
-- [SetGame](https://github.com/gabr0236/SetGame) (iOS App)
-- [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune) (Android App)
-- [Snake](https://github.com/gabr0236/Snake) (Java Game)
+## Portfolio Projects👨‍💻:
+
+### [Pokedle.gg](https://pokedle.gg/) 
+- Visual Pokémon Quiz Game
+
+### [OpenLog](https://github.com/gabr0236/OpenLog) 
+- Android app for logging medical data
+- Group Project, Contributed ~85% of the commits
+
+### [Roborally](https://github.com/gabr0236/Roborally) 
+- Java Multiplayer Game
+- Group Project, Contributed ~85% of the commits
+
+
+### Stock Tracker 
+- Web App for tracking stocks and creating custom portfolios
+
+### [SetGame](https://github.com/gabr0236/SetGame) 
+A Digitalized and animated version of the board game "[Set](https://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH.pdf)" for iOS
+
+### [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune) 
+- The Wheel Of Fortune implemented as an Android app
+
+### [Snake](https://github.com/gabr0236/Snake) 
+- Java Snake Game
+
 
 <!--
-**gabr0236/gabr0236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabr0236&count_private=true)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
