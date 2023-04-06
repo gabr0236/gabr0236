@@ -3,7 +3,7 @@ Check out my portfolio projects below! 👇😎
 
 #### Portfolio Projects👨‍💻:
 - [Pokedle.gg](https://pokedle.gg/)
-- [OpenLog MVP](https://github.com/gabr0236/OpenLog)
+- [OpenLog](https://github.com/gabr0236/OpenLog)
 - [Roborally](https://github.com/gabr0236/Roborally)
 - Stock Tracker (MERN application for creating and tracking custom stock portfolios)
 - [SetGame](https://github.com/gabr0236/SetGame)
