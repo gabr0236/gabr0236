@@ -2,13 +2,13 @@
 Check out my portfolio projects below! 👇😎
 
 #### Portfolio Projects👨‍💻:
-- [Pokedle.gg](https://pokedle.gg/)
-- [OpenLog](https://github.com/gabr0236/OpenLog) (Group Project, Contributed ~85% of the commits)
-- [Roborally](https://github.com/gabr0236/Roborally) (Group Project, Contributed ~75% of the commits)
+- [Pokedle.gg](https://pokedle.gg/) (Visual Quiz Game)
+- [OpenLog](https://github.com/gabr0236/OpenLog) (Healthcare Startup MVP Android App, Group Project, Contributed ~85% of the commits)
+- [Roborally](https://github.com/gabr0236/Roborally) (Java Game, Group Project, Contributed ~75% of the commits)
 - Stock Tracker (MERN application for creating and tracking custom stock portfolios)
-- [SetGame](https://github.com/gabr0236/SetGame)
-- [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune)
-- [Snake](https://github.com/gabr0236/Snake)
+- [SetGame](https://github.com/gabr0236/SetGame) (iOS App)
+- [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune) (Android App)
+- [Snake](https://github.com/gabr0236/Snake) (Java Game)
 
 <!--
 **gabr0236/gabr0236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
