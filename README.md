@@ -28,6 +28,6 @@ A Digitalized and animated version of the board game "[Set](https://www.setgame.
 - Java Snake Game
 
 
-<!--
+## Github Stats
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabr0236&count_private=true)
--->
+
