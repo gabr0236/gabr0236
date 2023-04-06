@@ -3,8 +3,8 @@ Check out my portfolio projects below! 👇😎
 
 #### Portfolio Projects👨‍💻:
 - [Pokedle.gg](https://pokedle.gg/)
-- [OpenLog](https://github.com/gabr0236/OpenLog)
-- [Roborally](https://github.com/gabr0236/Roborally)
+- [OpenLog](https://github.com/gabr0236/OpenLog) (Group Project, Contributed ~85% of the commits)
+- [Roborally](https://github.com/gabr0236/Roborally) (Group Project, Contributed ~75% of the commits)
 - Stock Tracker (MERN application for creating and tracking custom stock portfolios)
 - [SetGame](https://github.com/gabr0236/SetGame)
 - [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune)
