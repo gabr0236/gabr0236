@@ -19,7 +19,7 @@ Check out my portfolio projects below! 👇😎
 - Web App for tracking stocks and creating custom portfolios
 
 ### [SetGame](https://github.com/gabr0236/SetGame) 
-A Digitalized and animated version of the board game "[Set](https://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH.pdf)" for iOS
+- A Digitalized and animated version of the board game "[Set](https://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH.pdf)" for iOS
 
 ### [Wheel Of Fortune](https://github.com/gabr0236/Wheel-of-Fortune) 
 - The Wheel Of Fortune implemented as an Android app
