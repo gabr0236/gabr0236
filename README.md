@@ -12,7 +12,7 @@ Check out my portfolio projects below! 👇😎
 
 ### [Roborally](https://github.com/gabr0236/Roborally) 
 - Java Multiplayer Game
-- Group Project, Contributed ~85% of the commits
+- Group Project, Contributed ~75% of the commits
 
 
 ### Stock Tracker 
