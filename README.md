@@ -26,8 +26,3 @@ Check out my portfolio projects below! 👇😎
 
 ### [Snake](https://github.com/gabr0236/Snake) 
 - Java Snake Game
-
-
-## Github Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabr0236&count_private=true)
-
