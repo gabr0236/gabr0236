@@ -14,10 +14,6 @@ Check out my portfolio projects below! 👇😎
 - Java Multiplayer Game
 - Group Project, Contributed ~75% of the commits
 
-
-### Stock Tracker 
-- Web App for tracking stocks and creating custom portfolios
-
 ### [SetGame](https://github.com/gabr0236/SetGame) 
 - A Digitalized and animated version of the board game "[Set](https://www.setgame.com/sites/default/files/instructions/SET%20INSTRUCTIONS%20-%20ENGLISH.pdf)" for iOS
 
