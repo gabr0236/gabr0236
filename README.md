@@ -3,7 +3,7 @@ Check out my portfolio projects below! 👇😎
 
 ## Portfolio Projects👨‍💻:
 
-### [Pokedle.gg](https://pokedle.gg/) 
+### [Pokedle.com](https://pokedle.com/) 
 - Visual Pokémon Quiz Game
 
 ### [OpenLog](https://github.com/gabr0236/OpenLog) 
